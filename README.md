@@ -4,3 +4,5 @@
 <img src="https://img.shields.io/badge/Go-%23000000?style=flat&logo=Go&logoColor=%2300ADD8">
 <img src="https://img.shields.io/badge/Docker-%23000000?style=flat&logo=Docker&logoColor=%232496ED">
 <img src="https://img.shields.io/badge/MySQL-%23000000?style=flat&logo=MySQL&logoColor=%234479A1">
+<img src="https://img.shields.io/badge/PostgreSQL-%23000000?style=flat&logo=PostgreSQL&logoColor=%234169E1">
+<img src="https://img.shields.io/badge/CentOS-%23000000?style=flat&logo=CentOS&logoColor=%23262577&color=%23000000">
